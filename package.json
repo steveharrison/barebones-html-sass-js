@@ -1,0 +1,16 @@
+{
+  "name": "barebones-html-sass-js",
+  "version": "0.0.1",
+  "description": "Barebones HTML/SCSS/JS",
+  "main": "app.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "*",
+    "grunt": "*",
+    "grunt-browserify": "*",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-htmlmin": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
